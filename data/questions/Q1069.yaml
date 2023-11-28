@@ -13,13 +13,12 @@
 # limitations under the License.
 
 ---
-display_name: Are there any indications of dylib hijacking?
+display_name: Is this a test?
 type: question
 description:
 id: Q1069
 dfiq_version: 1.0.0
 tags:
- - T1574.004
  - macOS
 parent_ids:
  - F1025
